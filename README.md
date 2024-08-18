@@ -1,5 +1,4 @@
-<h1 align="center">CODSOFT</h1>
-<h2> Landing Page [Task 2] </h2>
+<h1 align="center">Landing Page [Task 2]</h1>
 This project is a simple landing page built using only HTML and CSS. 
 
 The landing page features:
