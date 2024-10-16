@@ -1,4 +1,4 @@
-<h1 align="center">[Landing Page](https://hlaaessam.github.io/Landing-Page/)</h1>
+## [Landing Page](https://hlaaessam.github.io/Landing-Page/)
 This project is a simple landing page built using only HTML and CSS. 
 
 The landing page features:
